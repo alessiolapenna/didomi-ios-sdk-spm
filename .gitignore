@@ -1,2 +1,3 @@
 ## Build generated
 build_spm/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
